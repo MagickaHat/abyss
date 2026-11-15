@@ -1,0 +1,9 @@
+DataBackup/
+.venv/
+.vscode/
+.gem/
+.bundle/
+
+*.tiled-session
+src/data/checksums.csv
+Gemfile.lock
