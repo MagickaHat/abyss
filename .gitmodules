@@ -1,12 +1,13 @@
 [submodule "src/assets"]
 	path = src/assets
-	url = git@github.com:AspiringArtificer/pokemon-assets-pet.git
+	url = https://github.com/MagickaHat/Pokemon-Essentials-v21.1
+	branch = main
 [submodule "src/essentials"]
 	path = src/essentials
-	url = git@github.com:AspiringArtificer/pokemon-essentials.git
+	url = https://github.com/Maruno17/pokemon-essentials
 [submodule "tools/eevee"]
 	path = tools/eevee
-	url = git@github.com:AspiringArtificer/eevee.git
+	url = https://github.com/enumag/eevee
 [submodule "src/mkxp-z"]
 	path = src/mkxp-z
-	url = git@github.com:AspiringArtificer/mkxp-z.git
+	url = https://codeberg.org/warmwinter/mkxp-z
